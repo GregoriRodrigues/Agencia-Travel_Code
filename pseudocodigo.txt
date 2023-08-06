@@ -1,4 +1,6 @@
-Algoritmo "AgenciaDeViagens"
+
+
+<<<< Algoritmo "AgenciaDeViagens" >>>>>
 
 // Seção de Declarações das variáveis
 Var
